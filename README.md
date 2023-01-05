@@ -1,6 +1,6 @@
 # MyRel
 
-Welcome to Myrel, a app developed for the [Database and Web Applications Laboratory Curricular Unit](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501685) at FEUP.
+Welcome to Myrel, a web app developed for the [Database and Web Applications Laboratory Curricular Unit](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501685) at FEUP.
 
 Our goal with Myrel is to provide a more personal and private space for users to connect with their friends and family. Unlike other social media platforms, Myrel allows users to create different relationships with their contacts and make posts that are only visible to certain groups of people. This way, users can share their thoughts and experiences with their close friends or just their family, without the need to worry about their privacy.
 
